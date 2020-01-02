@@ -201,4 +201,14 @@ Jika kita menginputkan selain yang ada pada menu (t, u, h, c, l, k) maka akan di
 Tambah data + Lihat data
 ![tambah data+lihat](https://user-images.githubusercontent.com/56618988/71652426-073c8480-2d58-11ea-94c4-ec0ebfd36987.png)
 
+Ubah data + Lihat data
+![ubah data+lihat](https://user-images.githubusercontent.com/56618988/71652751-479d0200-2d5a-11ea-9c2c-38c57567eab7.png)
 
+Cari data
+![cari data](https://user-images.githubusercontent.com/56618988/71652770-80d57200-2d5a-11ea-8cbd-c260192ce147.png)
+
+Hapus data & Lihat
+![hapus data+lihat](https://user-images.githubusercontent.com/56618988/71652790-a9f60280-2d5a-11ea-9943-eb55931ade3e.png)
+
+Keluar data
+![keluar](https://user-images.githubusercontent.com/56618988/71652852-50da9e80-2d5b-11ea-8587-db4ea3a0b1ef.png)
