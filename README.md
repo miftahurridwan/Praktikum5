@@ -195,3 +195,10 @@ Apabila kita menginput 'k' maka program akan langsung berhenti.
         else:
             print("Pilih menu yang tersedia")
 Jika kita menginputkan selain yang ada pada menu (t, u, h, c, l, k) maka akan diminta untuk memilih menu yang tersedia.
+
+#Tampilan Program Saat Dijalankan
+
+Tambah data + Lihat data
+![tambah data+lihat](https://user-images.githubusercontent.com/56618988/71652426-073c8480-2d58-11ea-94c4-ec0ebfd36987.png)
+
+
